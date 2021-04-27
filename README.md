@@ -1,7 +1,7 @@
-┊<h1 align="center">☾Hi There,I'm Evelyn Alves☽</h1>
-┊<h3 align="center">..🇧🇷..</h3>
-┊<p align="left"> <img src="https://komarev.com/ghpvc/?username=evelynalves1998&label=Profile%20views&color=0e75b6&style=flat" alt="evelynalves1998" /> ┊</p>
-┊<h3 align="left">Connect with me:</h3>
+┊ <h1 align="center">☾Hi There,I'm Evelyn Alves☽</h1>
+┊ <h3 align="center">..🇧🇷..</h3>
+┊ <p align="left"> <img src="https://komarev.com/ghpvc/?username=evelynalves1998&label=Profile%20views&color=0e75b6&style=flat" alt="evelynalves1998" /> ┊ </p>
+┊ <h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evelyn-alves-983795152/)](https://www.linkedin.com/in/evelyn-alves-983795152/)
 
