@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evelyn Alves</h1>
 <h3 align="center">...</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evelynalves1998&label=Profile%20views&color=0e75b6&style=flat" alt="evelynalves1998" /> </p>
+<p align="left"> <https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white?username=evelynalves1998&label=Profile%20views&color=0e75b6&style=flat" alt="evelynalves1998" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
