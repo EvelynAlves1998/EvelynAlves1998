@@ -1,4 +1,4 @@
-<h1 align="center">｛Hi There,I'm Evelyn Alves｝</h1>
+![GIT](https://user-images.githubusercontent.com/49756340/124985058-5c71ea00-e010-11eb-9cfe-23f7643ad332.jpg)
 <h3 align="center">..🇧🇷..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evelynalves1998&label=Profile%20views&color=0e75b6&style=flat" alt="evelynalves1998" /> ┊ </p>
 <h3 align="left">Connect with me:</h3>
@@ -11,7 +11,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evelynalves1998&show_icons=true&locale=en&layout=compact" alt="evelynalves1998" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evelynalves1998&show_icons=true&locale=en" alt="evelynalves1998" /></p>
-
-
-
-
