@@ -1,6 +1,6 @@
 ![GIT](https://user-images.githubusercontent.com/49756340/124985058-5c71ea00-e010-11eb-9cfe-23f7643ad332.jpg)
 <h3 align="center"> ❀I'm Evelyn, a Software Engineer Student at École 42 São Paulo❀</h3>
-<h3 align="center"> ▶I’m currently working on get_next_line</h3>
+<h3 align="center"> ▶I’m currently working on ft_printf</h3>
 <h3 align="center"> ★I'm currently studying C, Shell, Unix★</h3>
 
 
