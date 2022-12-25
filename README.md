@@ -1,4 +1,4 @@
-![GIT](https://user-images.githubusercontent.com/49756340/124985058-5c71ea00-e010-11eb-9cfe-23f7643ad332.jpg)
+![GIT](https://github.com/EvelynAlves1998/EvelynAlves1998/blob/main/Linkedinbannergeom%C3%A9tricorosa.png)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/evelyn-alves-983795152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/evelyn-alves-983795152/" height="30" width="40" /></a>
